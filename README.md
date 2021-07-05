@@ -1,7 +1,8 @@
 # My-Notebook-App
-This is Android App made in Kotlin
-It is based on MVVM pattern and it uses Room database in Android 
-to save data locally.
+This is Offline Android App made in Kotlin .
+It is based on MVVM pattern and it uses Room database in Android to save data locally.
+It is notebook app in which user can save his upcoming work.
+It has to features to delete and edit the each reminder.
 
 ![1](https://user-images.githubusercontent.com/65298880/124503647-9ca05500-dde3-11eb-9ab6-b88c00740111.jpg)
 ![5](https://user-images.githubusercontent.com/65298880/124503649-9dd18200-dde3-11eb-8195-dfb5bcaf650e.jpg)
